@@ -51,8 +51,8 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and make
 ## Developer:
 - [**WhatsApp**](https://wa.me/94723279957)
 
+---
 - Star ⭐ repo if you like this bot.
-
 
 <h2 align="center"> ⚠️ NOTE  </h2>
 
