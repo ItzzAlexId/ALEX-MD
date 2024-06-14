@@ -15,15 +15,11 @@
 
 ### Setup
 
-⭕ **DEPLOY ON HEROKU**
+⭕  **DEPLOY ON HEROKU**
    - **Click [`FORK`](https://github.com/DEXTER-BOTS/RCD-MD/fork) and `Star ⭐ Repository` for Courage.**
    - **You will get a session ID in WhatsApp, copy the ID only.**
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
-
-⭕ **ALEX WEB**
-
-<a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
 **`𝗔𝗟𝗘𝗫 𝗠𝗗 𝗕𝗢𝗧`**
 
