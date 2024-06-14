@@ -9,20 +9,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "";
+global.email = "itzzalexid@gmail.com";
 global.location = "Sri lanka .";
 global.mongodb = process.env.MONGODB_URI || "";
-global.allowJids = process.env.ALLOW_JID || "94789958225@s.whatsapp.net";
+global.allowJids = process.env.ALLOW_JID || "94723279957@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "srilank/ampara";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "srilank/dambbulla";
 global.github = process.env.GITHUB || "https://github.com/Itxxwasi/WASI-MD-V2";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vae6LKkId7nNiyM0TR1v";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vae6LKkId7nNiyM0TR1v";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg";
 global.devs = "923135673658";
 global.sudo = process.env.SUDO || "94789958225,94757660788,94770730717";
-global.owner = process.env.OWNER_NUMBER || "94789958225,94753574803";
+global.owner = process.env.OWNER_NUMBER || "94723279957";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -51,12 +51,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐑𝐂𝐃-𝐌𝐃-🏛️",
-  author: process.env.PACK_AUTHER || "𝐑𝐂𝐃",
-  packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "𝐃𝐄𝐗𝐓𝐄𝐑,𝐕𝐈𝐏𝐄𝐑",
-  errorChat: process.env.ERROR_CHAT || "94789958225",
+  caption: process.env.CAPTION || "© ΔLΣX MD",
+  author: process.env.PACK_AUTHER || "ΔLΣX MD",
+  packname: process.env.PACK_NAME || "🗿",
+  botname: process.env.BOT_NAME || "ΔLΣX MD",
+  ownername: process.env.OWNER_NAME || "𝐀𝐋𝐄𝐗 𝐈𝐃",
+  errorChat: process.env.ERROR_CHAT || "94723279957",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
