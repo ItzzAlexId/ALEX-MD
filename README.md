@@ -10,7 +10,7 @@
 
 
 
-<img src="https://files.fm/u/fn4thjhe9z" width="540" height="280" />
+<img src="[https://files.fm/u/fn4thjhe9z](https://www.uupload.net/5Ec)" width="540" height="280" />
 </p>         ⚔ 𝐀𝐋𝐄𝐗 𝐌𝐃 ⚔
 
 ### Setup
