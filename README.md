@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+𝗥𝗖𝗗-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RCD+TEAM;RELEASED+DATE+10%2F06%2F2024." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+𝗥𝗖𝗗-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALEX+PROGRAMMER;RELEASED+DATE+10%2F06%2F2024." alt="Typing SVG" />
   </a>
 </p>
 
 
 
-<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
+<img src="https://files.fm/u/fn4thjhe9z" width="540" height="280" />
 </p>         ⚔ 𝐀𝐋𝐄𝐗 𝐌𝐃 ⚔
 
 ### Setup
