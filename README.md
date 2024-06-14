@@ -56,3 +56,6 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and make
 
 <h2 align="center"> ⚠️ NOTE  </h2>
 
+
+## NOTE: ALEX-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+
