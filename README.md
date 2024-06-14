@@ -1,17 +1,17 @@
 
-## <p align="center">❮ ALEX-MD WHATSAPP BOT ❯
+## <p align="center">❮ 𝗥𝗖𝗗-MD WHATSAPP BOT ❯
 <br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+ALEX-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALEX+PROGRAMMER;RELEASED+DATE+10%2F06%2F2024." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+𝗥𝗖𝗗-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RCD+TEAM;RELEASED+DATE+10%2F06%2F2024." alt="Typing SVG" />
   </a>
 </p>
 
 
 
-<img src="https://imgtr.ee/images/2024/06/14/fcda680ed9153c53c634424f7b011315.jpeg" width="540" height="280" />
-</p>         ⚔ 𝐀𝐋𝐄𝐗 𝐌𝐃 ⚔
+<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
+</p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
 
 ### Setup
 
@@ -20,7 +20,7 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗔𝗟𝗘𝗫 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
 
 <a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
@@ -40,14 +40,14 @@
 </P>
 
 
-Contributions to ALEX-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to RCD-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The ALEX-MD is released.
+The RCD-MD is released.
 
-Enjoy the diverse features of the ALEX-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the RCD-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94723279957)
+- [**WhatsApp**](https://wa.me/94789958225)
 
