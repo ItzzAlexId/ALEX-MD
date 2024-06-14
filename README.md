@@ -10,7 +10,7 @@
 
 
 
-<img src="https://imgtr.ee/image/IFBJ2v" width="540" height="280" />
+<img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" width="540" height="280" />
 </p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
 
 ### Setup
