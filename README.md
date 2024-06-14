@@ -11,16 +11,17 @@
 
 
 <img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" width="540" height="280" />
-</p>         `A L E X  M D`
+</p>         𝗔 𝗟 𝗘 𝗫  𝗠 𝗗 
 
 ### Setup
 
-**📌DEPLOY ON HEROKU**
+⭕ **DEPLOY ON HEROKU**
    - ***Click [`FORK`](https://github.com/DEXTER-BOTS/RCD-MD/fork) and `Star ⭐ Repository` for Courage.***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-## ALEX WEB
+
+⭕ **ALEX WEB**
 
 <a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
