@@ -11,7 +11,7 @@
 
 
 <img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" width="540" height="280" />
-</p>         𝗔 𝗟 𝗘 𝗫  𝗠 𝗗 
+</p>         𝗔 𝗟 𝗘 𝗫 - 𝗠 𝗗 
 
 ### Setup
 
