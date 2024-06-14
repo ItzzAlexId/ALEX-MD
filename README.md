@@ -1,5 +1,5 @@
 
-## <p align="center">❮ 𝗥𝗖𝗗-MD WHATSAPP BOT ❯
+## <p align="center">❮ ALEX-MD WHATSAPP BOT ❯
 <br>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 
 
-<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
-</p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
+<img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" width="540" height="280" />
+</p>         `A L E X  M D`
 
 ### Setup
 
@@ -28,7 +28,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## DEPLOY IN HEROKU
 
@@ -49,5 +49,5 @@ The RCD-MD is released.
 Enjoy the diverse features of the RCD-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94789958225)
+- [**WhatsApp**](https://wa.me/94723279957)
 
