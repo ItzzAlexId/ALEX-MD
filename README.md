@@ -20,7 +20,7 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+## ALEX WEB
 
 <a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
@@ -28,7 +28,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## DEPLOY IN HEROKU
 
