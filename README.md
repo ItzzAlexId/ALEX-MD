@@ -25,7 +25,7 @@
 
 <a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
-**`ALEX 𝗠𝗗 𝗕𝗢𝗧`**
+**`𝗔𝗟𝗘𝗫 𝗠𝗗 𝗕𝗢𝗧`**
 
 ##  PAIRING CODE SCAN
 
