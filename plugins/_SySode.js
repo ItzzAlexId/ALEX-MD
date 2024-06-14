@@ -31,7 +31,7 @@ smd({
   const {
     exec: _0x1912df
   } = require("child_process");
-  _0x514d3c.reply("Restarting `𝗥𝗖𝗗 𝗠𝗗`");
+  _0x514d3c.reply("Restarting `𝗔𝗟𝗘𝗫 𝗠𝗗`");
   _0x1912df("pm2 restart all");
 });
 smd({

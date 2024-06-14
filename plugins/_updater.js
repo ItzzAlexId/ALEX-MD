@@ -46,7 +46,7 @@ try {
         let commits = await DB.syncgit();
         if (commits.total === 0)
           return await citel.reply(
-            `*𝗥𝗖𝗗-MD MD IS RUNNING ON LATEST\nPATCHES\nFIXES\UPGRADES*`
+            `*ALEX-MD MD IS RUNNING ON LATEST\nPATCHES\nFIXES\UPGRADES*`
           );
         let update = await DB.sync();
         await citel.bot.sendMessage(
