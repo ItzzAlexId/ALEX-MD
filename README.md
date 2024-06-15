@@ -29,7 +29,7 @@
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/ALEX-BOTS/ALEX-MD)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/ItzzAlexId-BOTS/ALEX-MD)
 
 
 
