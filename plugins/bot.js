@@ -41,7 +41,7 @@ db.get = async () => {
 };
 db.update = async _0x19934a => {
   try {
-    const _0x370f4c = "./ALEX.json";
+    const _0x370f4c = "./alex.json";
     const _0x50546d = db.get();
     const _0x456e8c = {
       ..._0x50546d,
@@ -261,13 +261,13 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ʀᴄᴅ ᴍᴅ  \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\nʀᴄᴅ ᴍᴅ`;
+          const captionText = `ᴀʟᴇx ᴍᴅ  \n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\nᴀʟᴇx ᴍᴅ`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/a789a7f2437c053ec829a.jpg",
+            "https://imgtr.ee/images/2024/06/14/f120b675c53d7a15d2bac7ed66d780dc.jpeg",
             {
               responseType: "arraybuffer",
             }
@@ -283,7 +283,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ʀᴄᴅ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nʀᴄᴅ ᴍᴅ`;
+          const captionText = `ᴀʟᴇx ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nᴀʟᴇx ᴍᴅ`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -305,7 +305,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ʀᴄᴅ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nʀᴄᴅ ᴍᴅ`;
+          const captionText = `ᴀʟᴇx ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nᴀʟᴇx ᴍᴅ`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -975,7 +975,7 @@ events.cmd({
         mentions: [_0x34f1e0]
       });
     } else {
-      return await _0x5d40b9.reply("*There's no user who has shared 'ALEX md'!*");
+      return await _0x5d40b9.reply("*There's no user who has shared 'alex md'!*");
     }
   } catch (_0x5bad57) {
     _0x5d40b9.reply("_ERROR!_");
@@ -995,7 +995,7 @@ events.cmd({
     }
     let _0x41fff7 = global.renters;
     if (!_0x41fff7 || !_0x41fff7[0]) {
-      return await _0x52616f.reply("*_No user has rent 'ALEX md' yet!_*\n*_Can't disable cmds for shared users, If the bot is not shared!_*");
+      return await _0x52616f.reply("*_No user has rent 'alex md' yet!_*\n*_Can't disable cmds for shared users, If the bot is not shared!_*");
     }
     let _0x5b8a34 = _0x2d6ee3.split(" ")[0].toLowerCase().trim();
     let _0x197a22 = events.commands.find(_0x3f658d => _0x3f658d.pattern === _0x5b8a34) || events.commands.find(_0x21a89e => _0x21a89e.alias && _0x21a89e.alias.includes(_0x5b8a34));

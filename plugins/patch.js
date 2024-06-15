@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`RCD-MD UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`ALEX-MD UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -319,8 +319,8 @@ ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}  
 ▱▰▱▰▱▰▱▰▱▰▱▱▰▱▱▰
-*⫷𝗥𝗖𝗗-𝗠𝗗⫸*
-ᴋᴇᴇᴘ ᴜsɪɴɢ ʀᴄᴅ ᴍᴅ
+*⫷𝗔𝗟𝗘𝗫-𝗠𝗗⫸*
+ᴋᴇᴇᴘ ᴜsɪɴɢ ᴀʟᴇx ᴍᴅ
 ▱▰▱▰▱▰▱▰▱▰▱▱▰▱▱▰
 
 ${readmore}`;
@@ -366,7 +366,7 @@ ${readmore}`;
 );
 smd(
   {
-    pattern: "rcd",
+    pattern: "alex",
     type: "MENU list",
     info: "user",
     dontAddCommandList: true,
@@ -380,7 +380,7 @@ smd(
         _0x22514a.date +
         "\n*➮ɴᴏᴡ ᴛɪᴍᴇ :* " +
         _0x22514a.time +
-        "\n\n➮Fᴏᴜɴᴅᴇʀ- RCD Team\n➮Oᴡɴᴇʀ - " +
+        "\n\n➮Fᴏᴜɴᴅᴇʀ- ALEX Team\n➮Oᴡɴᴇʀ - " +
         Config.ownername +
         "\n➮Nᴜᴍ - " +
         owner.split(",")[0] +
@@ -673,13 +673,13 @@ smd(
 
       const ramUsage = process.memoryUsage().heapTotal / 1024 / 1024;
 
-      const message = `*𝗥𝗖𝗗-𝗠𝗗-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
+      const message = `*𝗔𝗟𝗘𝗫-𝗠𝗗-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "RCD MD Running Since",
+        title: "ALEX MD Running Since",
         body: message,
-        footerText: "RCD MD 2024",
+        footerText: "ALEX MD 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -700,7 +700,7 @@ astro_patch.cmd({
       const {
         commands: _0x7cfe13
       } = require("../lib");
-      let _0x95885d = "\n\t*𝗥𝗖𝗗-𝗠𝗗-𝗖𝗠𝗗-𝗜𝗡𝗙𝗢*  \n";
+      let _0x95885d = "\n\t*𝗔𝗟𝗘𝗫-𝗠𝗗-𝗖𝗠𝗗-𝗜𝗡𝗙𝗢*  \n";
       for (let _0x2bd72c = 0; _0x2bd72c < _0x7cfe13.length; _0x2bd72c++) {
         if (_0x7cfe13[_0x2bd72c].pattern == undefined) {
           continue;
@@ -1000,7 +1000,7 @@ function _0x593b() {
     "schedule",
     "_COMMANDS*  \n┗━━━━━━━━━━━━━━━━━━━━━━━\n\n\n",
     "text",
-    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t𝗥𝗖𝗗-𝗠𝗗_",
+    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t𝗔𝗟𝗘𝗫-𝗠𝗗_",
     "2716190HSgAcg",
     "info",
     "endsWith",

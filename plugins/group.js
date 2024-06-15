@@ -1192,7 +1192,7 @@ const {
        forwardingScore: 999,
        isForwarded: true,
        externalAdReply: {
-         title: "𝗥𝗖𝗗-𝗠𝗗-𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧",
+         title: "𝗔𝗟𝗘𝗫-𝗠𝗗-𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧",
          body: _0x553d05.senderName,
          renderLargerThumbnail: true,
          thumbnail: log0,
@@ -1210,7 +1210,7 @@ const {
          }, "", "", _0x4c9688);
        } catch {}
      }
-     return await _0x553d05.reply("*Successful Sending Broadcast To `𝗥𝗖𝗗 𝗠𝗗` " + _0x4ef191.length + " Group*");
+     return await _0x553d05.reply("*Successful Sending Broadcast To `𝗔𝗟𝗘𝗫 𝗠𝗗` " + _0x4ef191.length + " Group*");
    } catch (_0x2a8ad8) {
      await _0x553d05.error(_0x2a8ad8 + "\n\ncommand: broadcast", _0x2a8ad8);
    }
