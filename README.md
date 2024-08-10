@@ -1,5 +1,5 @@
 
-## <p align="center"> ꪶALEX-MD WHATSAPP BOTꫂ
+## <p align="center"> ꪶ ᴀʟᴇx - ᴍᴅ ᴡᴀ ʙᴏᴛ ꫂ
 <br>
 
 <p align="center">
